@@ -171,12 +171,12 @@ The system is optimized for Google Sheets but remains compatible with Excel.
 
 ## 📸 Screenshots
 
-*(<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9c64f7b9-a9aa-4b5a-8ac8-dd7be1f132f3" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9c64f7b9-a9aa-4b5a-8ac8-dd7be1f132f3" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f02a5cb5-e5f6-4a19-98db-f1be9b72fedc" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e224653b-b088-45d1-a3d6-9fb009be838a" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/58ffd67e-f1bb-447e-a35d-4e03055a540f" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/df623b01-3d79-4a81-a266-1d429f92f92a" />
-)*
+
 
 ---
 
